@@ -15,14 +15,14 @@
   "ships": [
     {
       "code": "SM7899477748",
-      "status": "In Transit",
-      "loc": "",
+      "status": "Custom Clearance",
+      "loc": "Berlin airport",
       "from": "Italy",
       "to": "Germany",
       "eta": "2026-10-11",
       "desc": "ILVOLO ID CARD (FAN CLUB MEMBERSHIP)",
       "wt": "NIL",
-      "fee": "",
+      "fee": "200€",
       "sn": "ILVOLO",
       "sa": "Italy",
       "rn": "Christine Hadasch",
@@ -32,6 +32,11 @@
           "t": "2026-10-08",
           "s": "In Transit",
           "l": ""
+        },
+        {
+          "t": "2026-10-09",
+          "s": "Custom Clearance",
+          "l": "Berlin airport"
         }
       ]
     },
