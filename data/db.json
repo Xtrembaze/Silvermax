@@ -39,60 +39,6 @@
           "l": "Berlin airport"
         }
       ]
-    },
-    {
-      "code": "SMX-891841",
-      "status": "Custom Clearance",
-      "loc": "Italy Airpot",
-      "from": "Roma",
-      "to": "Romania",
-      "eta": "2026-10-16",
-      "desc": "ILVOLO ATM CARD FOR MRS ",
-      "wt": "20kg",
-      "fee": "You are required to pay 250€",
-      "sn": "Zion",
-      "sa": "50 New York street",
-      "rn": "Had wick",
-      "ra": "20 Italy street",
-      "hist": [
-        {
-          "t": "2026-10-08",
-          "s": "Custom Clearance",
-          "l": "Italy Airpot"
-        }
-      ]
-    },
-    {
-      "code": "SMX-100200",
-      "status": "In Transit",
-      "loc": "Lagos Hub, Nigeria",
-      "from": "Lagos, Nigeria",
-      "to": "London, United Kingdom",
-      "eta": "2026-10-15",
-      "desc": "Electronics parcel (2 boxes)",
-      "wt": "8.5 kg",
-      "fee": "",
-      "sn": "Ade Johnson",
-      "sa": "12 Marina Road, Lagos",
-      "rn": "Sarah Miles",
-      "ra": "45 Baker Street, London",
-      "hist": [
-        {
-          "t": "2026-10-06",
-          "s": "Order Received",
-          "l": "Lagos, Nigeria"
-        },
-        {
-          "t": "2026-10-07",
-          "s": "Picked Up",
-          "l": "Lagos, Nigeria"
-        },
-        {
-          "t": "2026-10-08",
-          "s": "In Transit",
-          "l": "Lagos Hub, Nigeria"
-        }
-      ]
     }
   ]
 }
